@@ -3,23 +3,33 @@
 ## 资料
 001
 
-https://spring.io/guides
+[Spring指南](https://spring.io/guides)    
 
-https://spring.io/guides/gs/serving-web-content/
+[spring web](https://spring.io/guides/gs/serving-web-content/)
 
-https://elasticsearch.cn/
+[目标站点](https://elasticsearch.cn/)
 
-https://developer.github.com/v3/guides/managing-deploy-keys/gi
+[github密匙添加](https://developer.github.com/v3/guides/managing-deploy-keys/gi)
 
 002 bootstrap
 
-https://v3.bootcss.com/
+[bootstrap](https://v3.bootcss.com/)
 
-https://v3.bootcss.com/getting-started/
+[bootstrap文档](https://v3.bootcss.com/getting-started/)
 
-https://v3.bootcss.com/components/#navbar-default
+[bootstrap 导航栏](https://v3.bootcss.com/components/#navbar-default)
 
-## 工具
-https://git-scm.com/download
+003 git_oauth_app
 
-https://github.com/twbs/bootstrap/releases/download/v3.3.7/bootstrap-3.3.7-dist.zip
+[创建git_oauth_app](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/)
+
+[添加图像标识](https://developer.github.com/apps/building-oauth-apps/creating-custom-badges-for-oauth-apps/)
+
+[git第三方授权登录的调用](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/)
+
+## 用到的工具
+[git下载](https://git-scm.com/download)
+
+[bootstrap引用包文件](https://github.com/twbs/bootstrap/releases/download/v3.3.7/bootstrap-3.3.7-dist.zip)
+
+[visual-paradigm下载](https://www.visual-paradigm.com/tw/download/)
