@@ -36,7 +36,7 @@
 
 [Maven仓库](https://mvnrepository.com/)
 
-##脚本
+## 脚本
 ```sql
 create table USER
 (
